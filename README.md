@@ -1,4 +1,4 @@
-<h1 align="left"><b>Hi, Hola, soy Oscar Aguas</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="justify"><b>Hi, Hola, soy Oscar Aguas</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
