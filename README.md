@@ -1,6 +1,6 @@
-<h1 align="justify"><b>Hi, Hola, soy Oscar Aguas</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left"><b>Hi, Hola, soy Oscar Aguas</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="justify">
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+a+mi+perfil;Estudiante+de+Ingeniería+de+Sistemas;Desarrollador+en+crecimiento;Apasionado+por+la+tecnología;Explorando+el+mundo+del+desarrollo+web..">
   </a>
